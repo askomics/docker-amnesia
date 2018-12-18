@@ -1,0 +1,2 @@
+# docker-amnesia
+amnesia, dockerized
