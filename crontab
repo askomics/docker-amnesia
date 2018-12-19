@@ -1,0 +1,2 @@
+# Run amnesia
+${CRON_STRING} ${SCRIPT_RUN}  >> ${CRON_LOG} 2>&1
